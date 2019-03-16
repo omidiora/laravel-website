@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+.navbar-brand{
+    font-size: 25px !important;
+
+
+}
+
+.dropdown-menu:hover{
+    background: black !important;
+    color: white;
+    padding: 15px;
+}
+.dropdown-item{
+    font-size: 40px !important;
+    color: red;
+}
+
+.nav-link{
+    color:black !important;
+    font-size: 25px;
+    margin: 15px !important;
+
+}
+
+/*dropdown*/
+
+.dropdown:hover >.dropdown-menu {
+    display: block !important;
+}
+
+.carousel-caption{
+    margin-bottom: 100px;
+    font-size: 40px;
+    opacity: 0.9;
+}
+.carousel-item{
+    height: 500px !important;
+    background-size: cover;
+    background-position: center;
+}
+.footer{
+    background: black;
+    color: white;
+    padding-bottom: 4px;
+}
+.footer h1{
+    margin-top: 15px;
+    color: red;
+}
+.footer p{
+    font-size: 25px !important;
+}
+
+footer{
+    margin-top: 100px;
+    background: blue;
+    color: white;
+}
+#font{
+    padding: 15px;
+    font-weight: 900;
+
+
+}
+#font1{
+font-size: 20px;
+margin-top: 25px;
+}
+.bottom{
+    margin-top: 35px;
+    margin-bottom: 30px;
+
+    
+}
